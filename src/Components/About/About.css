@@ -60,3 +60,30 @@ h1 {
 .description-about {
     line-height: 1.5rem;
 }
+
+@media (max-width: 414px) {
+    .section-description {
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 0 2rem;
+
+
+    }
+
+    .container-image {
+        max-width: 200px;
+        max-height: 200px
+    }
+
+    .image-photo {
+        width: 200px;
+    }
+
+    .welcome-section {
+        margin-top: 3rem
+    }
+
+    ;
+
+
+}

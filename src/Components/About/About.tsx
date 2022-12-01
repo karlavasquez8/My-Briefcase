@@ -14,7 +14,7 @@ export default function About() {
                         <span className="description-subtitle"> Front-end Web Developer</span>
                     </div>
                     <p className="description-about">
-                        Me gusta estar constante aprendizaje , experimentando y adquiriendo nuevas habilidades
+                        Me gusta estar en constante aprendizaje , experimentando y adquiriendo nuevas habilidades
                         de desarrollo profesional y personal. Mi experiencia en el sector jurídico me ha
                         permitido desarrollar habilidades blandas las cuales han sido de gran
                         ayuda en mi preparación como programadora web.

@@ -42,7 +42,7 @@ export default function Proyects() {
     }, {
         href: "https://www.npmjs.com/package/md-links-kvasquez",
         src: MdLinks,
-        description: 'Es una libreria de NodeJS que permite analizar los archivos de tipo Markdown, ya sea desde un archivo o directorio, que pueden estar alojados dentro de carpetas .',
+        description: 'Es una libreria de NodeJS que permite analizar los archivos de tipo Markdown, ya sea desde un archivo o directorio, que pueden estar alojados dentro de carpetas.',
         title: 'MD-LINKS',
         alt: 'Card Md Links',
         link: "https://github.com/karlavasquez8/md-links"
@@ -74,7 +74,7 @@ export default function Proyects() {
                         </p>
                         <div className="container-button">
                             <TextButton href={link} type={"thrid"}>
-                                Ver código
+                                &lt;/&gt; ver código
                             </TextButton>
                         </div>
                     </LinkCard>
