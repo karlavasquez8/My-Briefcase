@@ -1,0 +1,12 @@
+.section-contact {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container-links-contacts {
+    display: flex;
+    gap: 2rem;
+}

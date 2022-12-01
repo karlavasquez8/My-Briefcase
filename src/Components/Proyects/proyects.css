@@ -1,0 +1,25 @@
+.proyects {
+    display: flex;
+    flex-direction: column;
+    background-color: #60A97A;
+    width: 100vw;
+    padding: 2rem 0;
+}
+
+.header-proyects {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+.container-proyects {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem
+}
+
+.container-button {
+    display: flex;
+    justify-content: center;
+}

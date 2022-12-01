@@ -1,0 +1,12 @@
+.image-contact {
+    width: 30px;
+    margin: 0.5rem;
+}
+
+.button-contact {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
