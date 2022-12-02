@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/My-Briefcase/static/css/main.2b821cb1.css",
-    "main.js": "/My-Briefcase/static/js/main.dc415f62.js",
+    "main.css": "/My-Briefcase/static/css/main.9303c23a.css",
+    "main.js": "/My-Briefcase/static/js/main.461d3573.js",
     "static/js/787.6733f9d5.chunk.js": "/My-Briefcase/static/js/787.6733f9d5.chunk.js",
-    "static/media/datalovers.png": "/My-Briefcase/static/media/datalovers.e3cdd3316c707be7aca3.png",
-    "static/media/helptaster.png": "/My-Briefcase/static/media/helptaster.9334e267d3c031408d4e.png",
-    "static/media/photo.png": "/My-Briefcase/static/media/photo.e62c99f01310bfd755da.png",
-    "static/media/burguerqueen.png": "/My-Briefcase/static/media/burguerqueen.84f2cf4fe67bd7628663.png",
-    "static/media/cardvalidation.png": "/My-Briefcase/static/media/cardvalidation.aef2bdb0a07a7dd8ea0c.png",
-    "static/media/imgCelular.png": "/My-Briefcase/static/media/imgCelular.f779e479c564ad84c15a.png",
-    "static/media/mdlinks.png": "/My-Briefcase/static/media/mdlinks.4033ec513dba2fe40ad0.png",
-    "static/media/imgGitHub.png": "/My-Briefcase/static/media/imgGitHub.237e2214562c441f67b2.png",
-    "static/media/imgEmail.webp": "/My-Briefcase/static/media/imgEmail.6362ef82d1c4308e768d.webp",
+    "static/media/helptaster.png": "/My-Briefcase/static/media/helptaster.f57c640e074319d60cbf.png",
+    "static/media/datalovers.png": "/My-Briefcase/static/media/datalovers.15a47860c85373210ca4.png",
+    "static/media/burguerqueen.png": "/My-Briefcase/static/media/burguerqueen.dbe7535403c929daef79.png",
+    "static/media/photo.png": "/My-Briefcase/static/media/photo.9b2c7cc9724b93e213d9.png",
+    "static/media/cardvalidation.png": "/My-Briefcase/static/media/cardvalidation.7ed970511907736b0135.png",
+    "static/media/mdlinks.png": "/My-Briefcase/static/media/mdlinks.44c0b8168333d42cd620.png",
     "index.html": "/My-Briefcase/index.html",
-    "main.2b821cb1.css.map": "/My-Briefcase/static/css/main.2b821cb1.css.map",
-    "main.dc415f62.js.map": "/My-Briefcase/static/js/main.dc415f62.js.map",
+    "main.9303c23a.css.map": "/My-Briefcase/static/css/main.9303c23a.css.map",
+    "main.461d3573.js.map": "/My-Briefcase/static/js/main.461d3573.js.map",
     "787.6733f9d5.chunk.js.map": "/My-Briefcase/static/js/787.6733f9d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b821cb1.css",
-    "static/js/main.dc415f62.js"
+    "static/css/main.9303c23a.css",
+    "static/js/main.461d3573.js"
   ]
 }
