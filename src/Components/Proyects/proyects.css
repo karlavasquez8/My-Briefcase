@@ -8,7 +8,6 @@
 
 .header-proyects {
     color: #FFFFFF;
-    text-decoration: underline;
 }
 
 .container-proyects {
@@ -22,4 +21,21 @@
 .container-button {
     display: flex;
     justify-content: center;
+}
+
+.content-card-tech-code {
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    color: #60A97A;
+    margin: 1rem;
+}
+
+.container-tech {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 1rem;
 }

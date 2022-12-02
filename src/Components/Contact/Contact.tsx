@@ -1,8 +1,8 @@
 import React from "react";
-import LinkButton from "./LinksButton/LinkButton";
+import LinkButton from "./LinksButton/LinkButton"
 import Celular from "../../img/imgCelular.png"
 import Linkedin from "../../img/imgLinkedin.png"
-import Email from "../../img/imgEmail.webp"
+import Email from "../../img/imgEmailc.png"
 import GitHub from "../../img/imgGitHub.png"
 import "../Contact/contact.css"
 

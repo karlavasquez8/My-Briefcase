@@ -1,0 +1,12 @@
+.icon-img {
+    width: 20px;
+}
+
+.icon-name {
+    margin: 0 0.5rem;
+}
+
+.container-logos-tech {
+    display: flex;
+    align-items: center;
+}
