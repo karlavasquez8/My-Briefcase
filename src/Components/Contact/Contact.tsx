@@ -28,12 +28,12 @@ export default function Contact() {
             alt: "Logo GitHub"
         }, {
             href: 'mailto:karlavasquez817@gmail.com',
-            title: 'Enviar Correo',
+            title: 'karlavasquez817@gmail.com',
             src: Email,
             alt: 'Logo Email'
         }, {
             href: 'tel:946044673',
-            title: 'Celular',
+            title: '946044673',
             src: Celular,
             alt: 'Logo Celular'
         }]

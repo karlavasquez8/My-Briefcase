@@ -19,8 +19,8 @@ export default function About() {
                         permitido desarrollar habilidades blandas las cuales han sido de gran
                         ayuda en mi preparación como programadora web.
                     </p>
-                    <TextButton download="cv-Karlita-Vasquez.pdf" href="https://github.com/karlavasquez8/My-Briefcase/raw/65932ed7e71accd19ae078a08e0273047cf0026d/src/documents/cv-Karla%20vasquez.pdf">
-                        Descargar cv
+                    <TextButton href="https://karlavasquez8.github.io/cv-karlitaVasquez/" target="_blank">
+                        Ver cv
                     </TextButton>
                 </div>
                 <div className="container-image">

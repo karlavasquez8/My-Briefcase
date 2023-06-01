@@ -5,14 +5,15 @@ type Type = 'primary' | 'secondary' | "thrid"
 interface TextButtonProps {
     children: React.ReactNode;
     type?: Type;
-    download?: string;
+    target?: string;
     href?: string;
+
 }
 
 export const TextButton = (props: TextButtonProps) => {
-    const { type = 'primary', children, href, download } = props
+    const { type = 'primary', children, href, target } = props
     return (
-        <a href={href} download={download} className={`text-button ${type}`}>
+        <a href={href} target={target} className={`text-button ${type}`}>
             {children}
         </a>
     )
